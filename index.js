@@ -1,4 +1,4 @@
-let companyName = 'Scruber '
+var companyName = 'Scruber '
 
 const companyName = 'Scruber'
 
