@@ -1,5 +1,5 @@
 var companyName = 'Scuber'
-const companyName = 'Scruber'
+let companyName = 'Scruber'
 
 
 
