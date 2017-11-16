@@ -1,4 +1,4 @@
-Let companyName = 'Scruber '
+let companyName = 'Scruber '
 
 
 
