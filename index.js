@@ -1,4 +1,4 @@
-let companyName = 'Scruber'
+ companyName = 'Scruber'
 
 const companyName = 'Scruber ';
 
