@@ -1,5 +1,5 @@
 let companyName = 'Scuber'
-
+const companyName
 
 
 let mostProfitableNeighborhood = 'Chelsea'
