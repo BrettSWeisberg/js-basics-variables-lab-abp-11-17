@@ -1,4 +1,4 @@
-var companyName = 'Scruber '
+Let companyName = 'Scruber '
 
 
 
