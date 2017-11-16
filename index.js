@@ -1,6 +1,6 @@
 var companyName = 'Scruber '
 
-const companyName = 'Scruber'
+
 
 
 
