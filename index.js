@@ -1,4 +1,4 @@
- companyName = 'Scruber'
+variables companyName = 'Scruber'
 
 const companyName = 'Scruber ';
 
