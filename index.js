@@ -1,4 +1,5 @@
 var companyName = 'Scuber'
+const companyName = 'Scruber'
 
 
 
