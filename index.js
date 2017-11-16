@@ -1,4 +1,6 @@
-const companyName = 'Scruber'
+
+
+var companyName = 'Scruber'
 
 let mostProfitableNeighborhood = 'Chelsea'
 
