@@ -1,8 +1,6 @@
+let companyName = 'Scruber';
+
 const companyName = 'Scruber '
-
-
-
-
 
 let mostProfitableNeighborhood = 'Chelsea'
 
